@@ -19,7 +19,7 @@ ls
           }
         }
 
-        stage('') {
+        stage('error') {
           steps {
             echo 'done'
           }
